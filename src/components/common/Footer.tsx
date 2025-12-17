@@ -85,7 +85,7 @@ export const Footer = () => {
         {/* </a> */}
       </p>
         <a
-          href="#"
+          href="https://github.com/kshitu0404"
           target="_blank"
           rel="noreferrer"
           className="text-xl text-center text-purple-700 dark:text-purple-400"
