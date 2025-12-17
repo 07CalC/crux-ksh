@@ -12,6 +12,4 @@
 # License
 
 - 📦 **Code**: Licensed under the [MIT License](./LICENSE)
-- 📊 **Data**: Licensed under a [Custom Data License](./DATA_LICENSE.md) (CC BY-NC-ND 4.0)
 
-Please contact [hello@vinm.me](mailto:hello@vinm.me) for usage permissions outside these terms.
